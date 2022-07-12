@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kevin Morris
+- 👀 I’m interested in Computer Science and Aerospace Engineering.
+- 🌱 I’m currently pursuing an associate degree in Computer Science, and an associate degree for transfer in Math & Science.
+- 💞️ I’m looking to collaborate on this C++ class.
+- 📫 How to reach me kmorris36@student.rccd.edu
